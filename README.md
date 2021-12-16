@@ -1,6 +1,6 @@
 # Control_System_Traffic_Management
 
-Ingeniero: ISC. C. Eleazar M. C.
+Ingeniero: M.S.C. C. Eleazar M. C.
 
 ## Control System: Traffic Management
 
